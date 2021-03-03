@@ -2,7 +2,7 @@
 - 👨‍💻 I’m a frontend developer at [Onlyoffice](https://www.onlyoffice.com/)
 - ✏️ Most of the time I'm writing on JavaScript
 
-## 🏷 My badges
+## 🏷 My skills
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -12,6 +12,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=339933)
 ![Vuex](https://img.shields.io/badge/vuex%20-%23323330.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) 
 ![Redux](https://img.shields.io/badge/redux-%23323330.svg?&style=for-the-badge&logo=redux&logoColor=764ABC) 
+![MobX](https://img.shields.io/badge/mobx-%23323330.svg?&style=for-the-badge&logo=mobx&logoColor=FF9955) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
